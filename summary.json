@@ -1,0 +1,18 @@
+{
+  "rows": 185,
+  "first_month": "2005-07-01",
+  "last_month": "2020-11-01",
+  "duplicates_removed": 0,
+  "missing_values": 0,
+  "supervised_rows": 171,
+  "train_rows": 136,
+  "holdout_rows": 35,
+  "holdout_start": "2018-01-01",
+  "selected_model_by_walk_forward_cv": "RandomForest",
+  "test_close_mae_model": 28.38149564342517,
+  "test_close_mae_no_change": 24.24057142857143,
+  "test_directional_accuracy": 0.4,
+  "mean_monthly_log_return": 0.0008873971673673011,
+  "median_monthly_log_return": 0.021721880017735007,
+  "max_drawdown": -0.9675183473770046
+}
